@@ -1,0 +1,30 @@
+.Media
+{
+  cursor: pointer;
+  margin: 3px;
+  display: inline-block;
+  /* width: 220px; */
+  vertical-align: top;
+  border-radius: 7px;
+  /* border: 1px solid black; */
+  /* box-shadow: 5px 7px 30px -3px; */
+}
+.Media img
+{
+  border-radius: 7px 7px 0 0;
+  height: 120px;
+  width: auto;
+}
+.Media h3
+{
+  text-align: center;
+  color: #45ab45;
+  font-size: 100%;
+}
+.Media p
+{
+  text-align: center;
+  font-size: 13px;
+  color: #45abab;
+  margin-bottom: 25px;
+}

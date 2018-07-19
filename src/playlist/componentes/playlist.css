@@ -1,0 +1,10 @@
+.Playlist
+{
+  display: flex;
+  width: 100%;
+  overflow: auto;
+}
+.Playlist:scrollbar
+{
+  background: red;
+}
