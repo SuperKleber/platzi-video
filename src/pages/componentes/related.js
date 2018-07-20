@@ -5,7 +5,7 @@ function Related(props)
 {
   return(
     <div className="Related">
-      <img src= "../../../images/logo.png" alt="logo" width={250}/>
+      <img src= "images/logo.png" alt="logo" width={250}/>
     </div>
 
   )
